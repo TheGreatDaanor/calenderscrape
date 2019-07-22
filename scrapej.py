@@ -12,7 +12,7 @@ soup = BeautifulSoup(page.text,"html.parser")
 
 payload = {
     'xvalues[user]': 'dangelo',
-    'xvalues[pass]': 'r46dCp$lWh',
+    'xvalues[pass]': '',
     'submit':'login',
     'action':'submit'
 }
